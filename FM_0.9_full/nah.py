@@ -38,8 +38,8 @@ text_infa_okna_okey = """ВНИМАНИЕ
 """
 text_infa_sleva = """
 КУПИТЬ ПРОТОКОЛЫ:
-+1184212412434
-aboltus228@mail.ru
++7 902 387 31 19
+igrka4@gmail.com
 
 
 АВТОМАТИЧЕСКОЕ ЗАПОЛНЕНИЕ ПРОТОКОЛОВ.
